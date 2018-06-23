@@ -1,0 +1,58 @@
+.comments
+{
+    overflow: hidden;
+}
+.comments__item
+{
+    margin: 0 0 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EFEFEF;
+}
+.comments__item:last-child
+{
+    border: 0 none;
+}
+.comments-item__name
+{
+    font-size: 20px;
+}
+.comments-item__date
+{
+    font-size: 14px;
+    color: #878787;
+    margin-top: 0;
+}
+.comments-item__phone,
+.comments-item__email
+{
+    font-size: 14px;
+    color: #878787;
+}
+.comments-item__comment
+{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #232323;
+}
+.pagination {
+    display: block;
+    clear: both;
+    padding: 30px 0;
+}
+.pageLink {
+    display: block;
+    float: left;
+    padding: 3px 5px;
+    text-decoration: none;
+    color: #444;
+    border: 1px solid #555;
+    margin-right: 3px;
+}
+.pageCurrent {
+    display: block;
+    float: left;
+    margin-right: 3px;
+    border: 1px solid #111;
+    padding: 3px 5px;
+    background: #e4e4e4;
+}

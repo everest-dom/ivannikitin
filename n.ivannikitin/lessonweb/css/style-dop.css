@@ -1,0 +1,60 @@
+.ring_us_up {
+	margin: 10px 0;
+	margin-right: 10px !important;
+	width: 214px;
+}
+
+.site_desc {
+	margin-top: 60px;
+}
+
+.main_logo {
+	margin-top: 42px;
+}
+
+.ring_us_up span.desc {
+	font-size: 14px;
+}
+
+.footer__part {
+	width: 270px;
+}
+
+.ring_us_up .phone-dop,
+.footer__contacts .phone-dop {
+	margin: 7px 0 2px 0;
+}
+
+.ring_us_up .phone-dop span.desc,
+.footer__contacts .phone-dop span.desc {
+	margin-top: 20px;
+	font-size: 12px;
+}
+
+.ring_us_up .phone-dop span.phone,
+.footer__contacts .phone-dop span.phone {
+	display:block;
+	margin: 10px 0 10px 0;
+	font-size: 21px;
+}
+
+.ring_us_up .email-dop span.desc,
+.footer__contacts .email-dop span.desc {
+	font-size: 12px;
+}
+
+.ring_us_up .email-dop span.email,
+.footer__contacts .email-dop span.email {
+	margin-top: 3px;
+}
+
+.ring_us_up .email-dop span.email a,
+.footer__contacts .email-dop span.email a {
+	color: #333333;
+	
+}
+
+.ring_us_up .email-dop span.email a:hover,
+.footer__contacts .email-dop span.email a:hover {
+	color: #28b843;
+}

@@ -1,0 +1,68 @@
+a {
+    transition: .3s;
+    color: #fc0;
+}
+a:hover {
+    text-decoration: none;
+}
+.comment-table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+.comment-table tr:odd {
+    background: grey;
+}
+.comment-table th,
+.comment-table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 4px;
+}
+.comment-table th {
+    background: #fc0;
+    height: 40px;
+    vertical-align: bottom;
+}
+.comment-table tr:nth-child(odd) td {
+    background: ghostwhite;
+}
+.pagination {
+    margin: 20px 0 0;
+}
+.pageCurrent,
+.pageLink {
+    color: #000;
+    font-size: 16px;
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+.pageCurrent {
+    background: #fc0;
+    cursor: default;
+}
+.pageLink {
+    background: ghostwhite;
+}
+input[type=text] {
+    border: 1px solid #fc0;
+    padding: 5px 20px;
+    text-align: center;
+}
+input[type=submit] {
+    border: 1px solid #fc0;
+    padding: 5px 20px;
+    text-align: center;
+    background: #fff;
+    cursor: pointer;
+    transition: .3s;
+}
+input[type=submit]:hover {
+    background: #fc0;
+    color: #fff;
+}
+.hot,
+.hot * {
+    background: yellow !important;
+}

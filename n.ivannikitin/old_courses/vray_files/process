@@ -1,0 +1,1 @@
+if (typeof pluso != "undefined") pluso.setCounter("12", "https://ivannikitin.ru/trainings/3dmat/", undefined, {"facebook":1,"vkontakte":5,"odnoklassniki":4}, undefined);
