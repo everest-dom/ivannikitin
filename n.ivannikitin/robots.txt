@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /*category=*
+Disallow: /web/
+Disallow: /*?q=
+Disallow: /*?page=1
+Host: https://ivannikitin.ru/
+Sitemap: https://ivannikitin.ru/sitemap.xml
